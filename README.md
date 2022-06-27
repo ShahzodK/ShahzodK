@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shahzod
-- 👀 I’m interested in JavaScript
+- 👀 I’m interested in Front-end
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me - shahzod1505@gmail.com 
 
