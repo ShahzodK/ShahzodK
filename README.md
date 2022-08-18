@@ -3,4 +3,6 @@
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me - shahzod1505@gmail.com 
 
-<img src="https://www.codewars.com/users/ShahzodK/badges/small" alt="Codewars score"/>
+https://github-readme-stats.vercel.app/api?username=shahzodK
+
+<img src="https://www.codewars.com/users/rsschool_ShahzodK/badges/small" alt="Codewars score"/>
